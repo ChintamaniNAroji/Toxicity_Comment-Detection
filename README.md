@@ -225,8 +225,12 @@ Contributions are welcome! Feel free to:
 
 For questions or feedback, please reach out through GitHub Issues.
 
+
 🙏 Acknowledgments
 
 - Jigsaw and Kaggle for the dataset
 - TensorFlow/Keras team for excellent documentation
 - Everyone who contributed to open-source ML libraries
+
+***If GitHub can't display the notebook, view it here:***
+https://nbviewer.org/github/ChintamaniNAroji/Toxicity_Comment-Detection/blob/main/Comment_toxicity.ipynb
